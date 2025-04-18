@@ -7,7 +7,7 @@ Pais Generator
   
   Go for [Notices](#notices)
   
-  Go for [Whats-the-versions](#whats-the-version)
+  Go for [Whats-the-versions](#what's-the-version)
   
 
 # About ⁉️:
