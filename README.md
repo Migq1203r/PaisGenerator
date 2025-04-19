@@ -7,7 +7,7 @@ Pais Generator
   
   Go for [Notices](#notices-%EF%B8%8F)
 
-  Go for [Type-Of-File](type-of-file-)
+  Go for [Type-Of-File](#type-of-file-)
 
   Go for [Libraries-Used](#libraries-used)
 
@@ -20,6 +20,7 @@ Pais Generator
 
 # About ⁉️:
   **Made in Python the PaisGenerator**
+  **The PaisGenerator is a app with graphics for the end user**
 
 # Type Of File 📁:
   **The File is back.py**
