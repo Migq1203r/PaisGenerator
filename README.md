@@ -29,22 +29,29 @@ Pais Generator
   
 # **Libraries Used:**
   **I use:**
+  
   ***Kivy***
+  
   ***Pandas***
+  
   ***OpenPyXl***
+  
   ***Time -- from time: time.sleep()***
+  
   ***SYS***
-  ```From Kivy:
+  
+  ```
+    From Kivy:
     from kivy.app import App
     from kivy.uix.boxlayout import BoxLayout
     from kivy.uix.label import Label
     from kivy.uix.textinput import TextInput
     from kivy.uix.button import Button
     from kivy.uix.scrollview import ScrollView
-    ***Pandas***
-    ***SYS***
-    ***Time -- From Time: time.sleep()***
-    ***OpenPyXl**
+    Pandas
+    SYS
+    Time -- From Time: time.sleep()
+    OpenPyXl
 ```
 
 # How to Install Libraries:
@@ -56,7 +63,8 @@ Pais Generator
 ```
 
 # Imports:
-  ``` import pandas as pd
+  ```
+      import pandas as pd
       import openpyxl
       import sys
       import time
